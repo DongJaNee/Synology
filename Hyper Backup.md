@@ -1,6 +1,7 @@
 # Hyper Backup이란?
 Hyper Backup은 데이터 복사본을 보존하고 응용 프로그램과 시스템 구성을 이전 시점으로 복원하는데 도움이 되는 직관적인 통합 backup 솔루션.
-Hyper Backup은로컬 공유 폴더, Synology NAS에 연결된 외부 저장소 장치(ex: USB 플래시 드라이브), 워녁ㄱ Synology NAS, 파일 서버 및 클라우드 서비스로의 NAS 데이터 backup을 지원.
+Hyper Backup은로컬 공유 폴더, Synology NAS에 연결된 외부 저장소 장치(ex: USB 플래시 드라이브),
+원격 Synology NAS, 파일 서버 및 클라우드 서비스로의 NAS 데이터 backup을 지원.
 
 <img width="779" height="357" alt="image" src="https://github.com/user-attachments/assets/49460378-a61e-4aea-a3aa-c0556079f176" />
 
