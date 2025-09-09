@@ -17,5 +17,6 @@
 
 ## 5. 스냅샷 보존
 
+<img width="681" height="579" alt="image" src="https://github.com/user-attachments/assets/d2027417-2e63-4e3c-8cb4-4a5589cf53be" />
 
 
