@@ -23,6 +23,11 @@
 
 - Add existing Servers Click (기존 서버 추가)
 
+
+<img width="996" height="525" alt="image" src="https://github.com/user-attachments/assets/fa308a23-1264-469c-93b0-8d7ca56784db" />
+
+
+
 ## 2. 서버 그룹 만들기
 
 <img width="996" height="261" alt="image" src="https://github.com/user-attachments/assets/af5b88df-e43b-4069-966c-b6c9e4cbd71f" />
