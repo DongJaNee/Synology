@@ -35,6 +35,19 @@
 <img width="987" height="582" alt="image" src="https://github.com/user-attachments/assets/0cc00ad8-d86d-4e6b-a7b2-37b6e3a4c606" />
 
 
+----------------
+
+## 1. Host NAS Set
+
+<img width="1147" height="652" alt="image" src="https://github.com/user-attachments/assets/b73f264d-596c-46c3-b78e-3e5282ac6425" />
+
+- 제어판에서 CMS Click
+
+## 2. Alert Set 
+
+<img width="1148" height="650" alt="image" src="https://github.com/user-attachments/assets/4cad8a81-d757-4d17-9f03-49bc6d4fd5c5" />
+
+- Enable centralized notifications을 Check하면 Host에서 발생하는 문제를 Controller에서 Alert
 
 
 
